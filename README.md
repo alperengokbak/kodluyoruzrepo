@@ -26,3 +26,5 @@ Direkt olarak Visual studio açılacaktır.
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizle ilgili konu açın.
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[Patika.Dev.Profile](https://app.patika.dev/alperengokbak)
